@@ -1,0 +1,4 @@
+while wait() do
+game:GetService("ReplicatedStorage").RemoteEvent:FireServer(30, v)
+
+        end
